@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: #0ff;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+.exchanges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  width: 40%;
+  margin: auto;
+}
+.exchange {
+  margin: 1rem 0;
+  width: auto;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
